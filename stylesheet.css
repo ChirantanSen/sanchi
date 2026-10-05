@@ -17,3 +17,7 @@ header{
 .navbar-toggler-icon .fa-bars{
     color: white;
 }
+
+h1 a{
+    color: black;
+}
